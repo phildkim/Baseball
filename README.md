@@ -1,6 +1,6 @@
 ## CS08 DataStructure Final-Project
 
-#### > Write a program that inputs a list of all MLB stadiums and MLB teams and stores this data in a suitable data structure (heap, tree, etc..). This data will allow baseball fans to plane their dream vacation.
+#### Write a program that inputs a list of all MLB stadiums and MLB teams and stores this data in a suitable data structure (heap, tree, etc..). This data will allow baseball fans to plane their dream vacation.
 
      
 | The initial souvenir list is a follows   |
@@ -9,7 +9,6 @@
 | b)  Baseball bat $35.35             |
 | c)  Team pennant $12.99             |
 | d)  Autographed baseball $19.99     |
-
 
 
 - Create a list of stadium names in alphabetical order.
@@ -30,3 +29,5 @@
 | 6) Provide the capability for admininstrator to modify stadium information if a team moves into a new stadium.     |
 | 7) Provide the capability for admininstrator to add a new team and corresponding stadium if MLB decides to expand.    |
 | 8) Provide the capability for admininstrator to modify (add/delete/change) the sourvenirs list and their prices.    |
+
+
