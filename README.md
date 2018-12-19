@@ -1,6 +1,6 @@
 ## CS08 DataStructure Final-Project
 
-#### Write a program that inputs a list of all MLB stadiums and MLB teams and stores this data in a suitable data structure (heap, tree, etc..). This data will allow baseball fans to plane their dream vacation.
+#### > Write a program that inputs a list of all MLB stadiums and MLB teams and stores this data in a suitable data structure (heap, tree, etc..). This data will allow baseball fans to plane their dream vacation.
 
      
 | The initial souvenir list is a follows   |
