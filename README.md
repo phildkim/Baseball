@@ -11,7 +11,7 @@
 | d)  Autographed baseball $19.99     |
 
 
-⋅⋅* Create a list of stadium names in alphabetical order.
+..* Create a list of stadium names in alphabetical order.
 ##### ⋅⋅* Create list of sorted team names.
 ##### ⋅⋅* Create list of sorted American League stadiums by team name.
 ##### ⋅⋅* Create list of sorted National League stadiums by team name.
