@@ -3,12 +3,12 @@
 #### Write a program that inputs a list of all MLB stadiums and MLB teams and stores this data in a suitable data structure (heap, tree, etc..). This data will allow baseball fans to plane their dream vacation.
 
 
-|#### The initial souvenir list is a follows|
-|-------------------------------------------|
-|a)|Baseball cap $25.99|
-|b)|Baseball bat $35.35|
-|c)|Team pennant $12.99|
-|d)|Autographed baseball $19.99|
+#### | # |The initial souvenir list is a follows|
+     |---|--------------------------------------|
+     |(1)|      Baseball cap $25.99             |
+     |(2)|      Baseball bat $35.35             |
+     |(3)|      Team pennant $12.99             |
+     |(4)|      Autographed baseball $19.99     |
 
 
 ##### ⋅⋅* Create a list of stadium names in alphabetical order.
