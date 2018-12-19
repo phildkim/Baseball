@@ -12,12 +12,12 @@
 
 
 
-* Create a list of stadium names in alphabetical order.
-##### ⋅⋅* Create list of sorted team names.
-##### ⋅⋅* Create list of sorted American League stadiums by team name.
-##### ⋅⋅* Create list of sorted National League stadiums by team name.
-##### ⋅⋅* Create list of grass surface sorted by team name.
-##### ⋅⋅* Create list of stadiums opened in chronological order by date.
+##### * Create a list of stadium names in alphabetical order.
+##### * Create list of sorted team names.
+##### * Create list of sorted American League stadiums by team name.
+##### * Create list of sorted National League stadiums by team name.
+##### * Create list of grass surface sorted by team name.
+##### * Create list of stadiums opened in chronological order by date.
 
 #### PLANNING A VACATION
 
