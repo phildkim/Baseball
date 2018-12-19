@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>img/Stadium-NonDirected.jpg</file>
+    </qresource>
+</RCC>

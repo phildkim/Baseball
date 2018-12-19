@@ -1,0 +1,241 @@
+Stadium Name: Angels Stadium of Anaheim
+Team Name: Los Angeles Angels of Anaheim
+3498 fkjfdklsjkljdslkjfdsl
+City, State, Zip: Anaheim, CA 92806
+Box Office #: (714)940-2000
+Date Opened: Opened – April 19, 1966
+Seating Capacity: Capacity – 45,483
+
+Stadium Name: AT&T Park
+Team Name: San Francisco Giants
+Street Address: 24 Willie Mays Plaza
+City, State, Zip: San Francisco, CA 94107
+Box Office #: (415) 972-2000
+Date Opened: Opened - April 11, 2000
+Seating Capacity: Capacity - 41,915
+
+Stadium Name: Busch Stadium
+Team Name: St. Louis Cardinals
+Street Address: 700 Clark Street
+City, State, Zip: St. Louis, MO 63102
+Box Office #: (314) 345-9600
+Date Opened: Opened - April 10, 2006
+Seating Capacity: Capacity - 46,861
+
+Stadium Name: Chase Field
+Team Name: Arizona Diamondbacks
+Street Address: 401 East Jefferson Street
+City, State, Zip: Phoenix, AZ 85004
+Box Office #: (602) 462-6500
+Date Opened: Opened - March 31, 1998
+Seating Capacity: Capacity - 48,633
+
+Stadium Name: Citi Field
+Team Name: New York Mets
+Street Address: 126th St. & Roosevelt Ave.
+City, State, Zip: Queens, NY 11368
+Box Office #: (718) 507-6387
+Date Opened: Opened - April 13, 2009
+Seating Capacity: Capacity - 41,922
+
+Stadium Name: Citizens Bank Park
+Team Name: Philadelphia Phillies
+Street Address: 1 Citizens Bank Way
+City, State, Zip: Philadelphia, PA 19148
+Box Office #: (215) 463-1000
+Date Opened: Opened - April 3, 2004
+Seating Capacity: Capacity - 43,651
+
+Stadium Name: Comerica Park
+Team Name: Detroit Tigers
+Street Address: 2100 Woodward Ave
+City, State, Zip: Detroit, MI 48201
+Box Office #: (313) 962-4000
+Date Opened: Opened – April 11, 2000
+Seating Capacity: Capacity – 41,681
+
+Stadium Name: Coors Field
+Team Name: Colorado Rockies
+Street Address: 2001 Blake St
+City, State, Zip: Denver, CO 80205
+Box Office #: (303) 292-0200
+Date Opened: Opened - April 26, 1995
+Seating Capacity: Capacity - 50,480
+
+Stadium Name: Dodger Stadium
+Team Name: Los Angeles Dodgers
+Street Address: 1000 Elysian Park Avenue
+City, State, Zip: Los Angeles, CA 90090
+Box Office #: (323) 224-1507
+Date Opened: Opened - April 10, 1962
+Seating Capacity: Capacity - 56,000
+
+Stadium Name: Fenway Park
+Team Name: Boston Red Sox
+Street Address: 4 Yawkey Way,
+City, State, Zip: Boston, MA 02215
+Box Office #: (877) 733-7699
+Date Opened: Opened – April 20, 1912
+Seating Capacity: Capacity – 37,499 (night) & 37,071 (day)
+
+Stadium Name: Globe Life Park in Arlington
+Team Name: Texas Rangers
+Street Address: 1000 Ballpark Way,
+City, State, Zip: Arlington, TX 76011
+Box Office #: (817) 273-5222
+Date Opened: Opened – April 1, 1994
+Seating Capacity: Capacity – 48,114
+
+Stadium Name: Great America Ball Park
+Team Name: Cincinnati Reds
+Street Address: 100 Joe Nuxhall Way
+City, State, Zip: Cincinnati, OH 45202
+Box Office #: (513) 381-7337
+Date Opened: Opened - March 31, 2003
+Seating Capacity: Capacity - 42,319
+
+Stadium Name: Kauffman Stadium
+Team Name: Kansas City Royals
+Street Address: 1 Royal Way
+City, State, Zip: Kansas City, MO 64129
+Box Office #: (816) 921-8000
+Date Opened: Opened – April 10, 1973
+Seating Capacity: Capacity – 37,903
+
+Stadium Name: Marlins Park
+Team Name: Miami Marlins
+Street Address: 501 Marlins Way
+City, State, Zip: Miami, FL 33125
+Box Office #: (305)480-1300
+Date Opened: Opened - April 4, 2012
+Seating Capacity: Capacity - 37,442
+
+Stadium Name: Miller Park
+Team Name: Milwaukee Brewers
+Street Address: 1 Brewers Way
+City, State, Zip: Milwaukee, WI 53214
+Box Office #: (414) 902-4400
+Date Opened: Opened - April 6, 2001
+Seating Capacity: Capacity - 41,900
+
+Stadium Name: Minute Maid Park
+Team Name: Houston Astros
+Street Address: 501 Crawford St
+City, State, Zip: Houston, TX 77002
+Box Office #: (713) 259-8000
+Date Opened: Opened - March 30, 2000
+Seating Capacity: Capacity - 42,060
+
+Stadium Name: Nationals Park
+Team Name: Washington Nationals
+Street Address: 1500 S Capitol St SE
+City, State, Zip: Washington, DC 20003
+Box Office #: (202) 675-6287
+Date Opened: Opened - March 30, 2008
+Seating Capacity: Capacity - 41,418
+
+Stadium Name: O.co Coliseum
+Team Name: Oakland Athletics
+Street Address: 7000 Coliseum Way
+City, State, Zip: Oakland, CA 94621
+Box Office #: (510) 569-2121
+Date Opened: Opened - September 18, 1966
+Seating Capacity: Capacity - 37,090 (April - August) & 55,945 (Sept - Jan)
+
+Stadium Name: Oriole Park at Camden Yards
+Team Name: Baltimore Orioles
+Street Address: 333 West Camden Street
+City, State, Zip: Baltimore, MD 21201
+Box Office #: (410) 685-9800
+Date Opened: Opened - April 6, 1992
+Seating Capacity: Capacity - 48,187
+
+Stadium Name: Petco Park
+Team Name: San Diego Padres
+Street Address: 19 Tony Gwynn Drive
+City, State, Zip: San Diego, CA 92101
+Box Office #: (619) 795-5000
+Date Opened: Opened - April 8, 2004
+Seating Capacity: Capacity - 42,524
+
+Stadium Name: PNC Park
+Team Name: Pittsburgh Pirates
+Street Address: 115 Federal St
+City, State, Zip: Pittsburgh, PA 15212
+Box Office #: (412) 321-2827
+Date Opened: March 31, 2001
+Seating Capacity: 38,362
+
+Stadium Name: Progressive Field
+Team Name: Cleveland Indians
+Street Address: 2401 Ontario Street
+City, State, Zip: Cleveland, OH 44115
+Box Office #: (216) 420-4487
+Date Opened: Opened - April 2, 1994
+Seating Capacity: Capacity - 42,404
+
+Stadium Name: Rogers Centre
+Team Name: Toronto Blue Jays
+Street Address: 1 Blue Jays Way
+City, State, Zip: Toronto, Ontario, Canada M5V1J3
+Box Office #: +1 416-341-1000
+Date Opened: Opened - June 3, 1989
+Seating Capacity: Capacity - 49,282
+
+Stadium Name: SafeCo Field
+Team Name: Seattle Mariners
+Street Address: 1516 First Avenue South
+City, State, Zip: Seattle, WA 98134
+Box Office #: (206) 346-4000
+Date Opened: Opened - July 15, 1999
+Seating Capacity: Capacity - 47,476
+
+Stadium Name: Target Field
+Team Name: Minnesota Twins
+Street Address: 353 N 5th St
+City, State, Zip: Minneapolis, MN 55403
+Box Office #: (800) 338-9467
+Date Opened: Opened - April 12, 2010
+Seating Capacity: Capacity - 39,021
+
+Stadium Name: Tropicana Field
+Team Name: Tampa Bay Rays
+Street Address: 1 Tropicana Dr
+City, State, Zip: St. Petersburg, FL 33705
+Box Office #: (727) 825-3137
+Date Opened: Opened - March 3, 1990
+Seating Capacity: Capacity - 31,042 (Regular Season) 42,735 (Postseason)
+
+Stadium Name: Turner Field
+Team Name: Atlanta Braves
+Street Address: 755 Hank Aaron Drive
+City, State, Zip: Atlanta, GA 30315
+Box Office #: (404) 522-7630
+Date Opened: Opened - March 29, 1997
+Seating Capacity: Capacity - 49,586
+
+Stadium Name: US Cellular Field
+Team Name: Chicago White Sox
+Street Address: 333 West 35th Street
+City, State, Zip: Chicago, IL 60616
+Box Office #: (312) 674-1000
+Date Opened: Opened - April 18, 1991
+Seating Capacity: Capacity - 40,615
+
+Stadium Name: Wrigley Field
+Team Name: Chicago Cubs
+Street Address: 1060 West Addison Street
+City, State, Zip: Chicago, IL 60613
+Box Office #: (773) 404-2827
+Date Opened: Opened - April 23, 1914
+Seating Capacity: Capacity - 42,374
+
+Stadium Name: Yankee Stadium
+Team Name: New York Yankees
+Street Address: 1 E 161st St
+City, State, Zip: South Bronx, NY 10451
+Box Office #: (718) 293-4300
+Date Opened: Opened - April 16, 2009
+Seating Capacity: Capacity - 50,291
+
+Stadium Name: fsafas
